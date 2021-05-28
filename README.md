@@ -1,4 +1,4 @@
-# IBM Applied D.S Capstone Project (Finding My New Home in London)
+# IBM Applied D.S Capstone Project [ Finding My New Home in London ]
 This repository contains my approach to solving the business problems of the Coursera course Applied Data Science Capstone offered by IBM. 
 
 ## Business Problems
